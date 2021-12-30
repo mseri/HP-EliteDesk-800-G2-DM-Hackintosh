@@ -61,7 +61,7 @@ Press **F10** to save changes.
 - macOS Monterey 12.1
 
 ### Bootloader
-- OpenCore 0.7.5
+- OpenCore 0.7.6
 
 ### Kexts
 - AirportItlwm (2.0.0)
@@ -107,7 +107,7 @@ Press **F10** to save changes.
 - Front Headphone/Mic combo jack is not working
 - Sleep is not working (black screen when trying to wake it)
 - Upgrades face one time **Real-Time Clock (RTC) Power loss (005)** error, safely ignore it. When upgrade is finished, no RTC erros on normal reboot
-- Bluetooth breaks if you turn it off and on
+- Bluetooth breaks if you turn it off and on and sometimes goes mad, in those cases reboot to make it work again
 
 ## Credits:
 Thanks to [randyzhong](https://github.com/randyzhong/HP-EliteDesk-800-G2-DM-Hackintosh) and his setup.
