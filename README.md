@@ -61,7 +61,7 @@ Press **F10** to save changes.
 - macOS Monterey 12.1
 
 ### Bootloader
-- OpenCore 0.7.6
+- OpenCore 0.7.7
 
 ### Kexts
 - AirportItlwm (2.0.0)
