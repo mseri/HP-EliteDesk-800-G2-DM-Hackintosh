@@ -65,19 +65,19 @@ Press **F10** to save changes.
 
 ### Kexts
 - AirportItlwm (2.0.0)
-- AppleALC (1.6.7)
+- AppleALC (1.6.8)
 - BluetoothFixup.kext (2.6.1)
 - CPUFriend.kext (1.2.4)
 - IntelBluetoothFirmware (2.0.1)
 - IntelMausi.kext (1.0.7)
-- Lilu.kext (1.5.8)
+- Lilu.kext (1.5.9)
 - NVMEFix (1.0.9)
 - RTCMemoryFixup.kext (1.0.7)
 - SMCSuperIO.kext (1.247)
 - SMCProcessor.kext (1.2.7)
 - USBPorts.kext (1.0)
 - VirtualSMC.kext (1.2.8)
-- WhateverGreen.kext (1.5.5)
+- WhateverGreen.kext (1.5.6)
 
 ### USB 3.0 Ports
 **USB 2.0 Device**
